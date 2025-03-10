@@ -1,0 +1,17 @@
+.footer__links {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 18px;
+}
+
+@media screen and (max-width: 767px) {
+	.footer__links {
+		display: block;
+		font-size: 24px;
+		line-height: 24px;
+	}
+}

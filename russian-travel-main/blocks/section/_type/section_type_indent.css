@@ -1,0 +1,15 @@
+.section_type_indent {
+	margin-top: 92px;
+}
+
+@media screen and (max-width: 1023px) {
+	.section_type_indent {
+		margin-top: 88px;
+	}
+}
+
+@media screen and (max-width: 424px) {
+	.section_type_indent {
+		margin-top: 64px;
+	}
+}
