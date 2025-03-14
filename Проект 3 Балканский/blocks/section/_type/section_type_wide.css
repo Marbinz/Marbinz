@@ -1,0 +1,15 @@
+.section_type_wide {
+	width: calc(100% - 2 * 48px);
+}
+
+@media screen and (max-width: 1023px) {
+	.section_type_wide {
+		width: calc(100% - 2 * 24px);
+	}
+}
+
+@media screen and (max-width: 424px) {
+	.section_type_wide {
+		width: calc(100% - 2 * 16px);
+	}
+}

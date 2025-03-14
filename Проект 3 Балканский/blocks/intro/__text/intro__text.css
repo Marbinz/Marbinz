@@ -1,0 +1,12 @@
+.intro__text {
+	max-width: 690px;
+	margin: 0px;
+	margin-bottom: 10px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+}
+
+.intro__text:last-of-type {
+	margin-bottom: 0;
+}
